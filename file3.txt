@@ -1,0 +1,6 @@
+appservice
+sql
+storage
+vm
+virtual network
+monitoring 
